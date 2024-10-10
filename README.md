@@ -1,5 +1,10 @@
 # Teste técnico ESIG
 
+![ambiente-docker](./assets/ESIG.gif)
+
+## Arquitetura e funcionalidades
+![arquitetura](./assets/arq.png)
+
 ## Jenkins no Tomcat com Docker
 
 Este repositório fornece um Dockerfile que configura o Jenkins em um servidor **Tomcat**. A solução é executada em um contêiner Docker, tornando fácil e rápida a implantação do Jenkins para pipelines de CI/CD.
