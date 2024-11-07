@@ -1,5 +1,3 @@
-# Teste técnico ESIG
-
 ## Descrição
 Este projeto implementa um ambiente de integração contínua (CI) e entrega contínua (CD) utilizando o Jenkins rodando em um servidor Tomcat, monitorado pelo Prometheus e visualizado no Grafana. A infraestrutura é configurada e orquestrada com Docker e Docker Compose, permitindo fácil implantação e escalabilidade.
 
